@@ -1,8 +1,8 @@
 # Counter
-I was solving a bug one day at work and i needed a counter to keep a count for number of functions i have visited. So i thought of just creating one using tkinter. So here it is putting out here if anyone ever needs one.
-
-# Introduction
 This is a basic counter for Counting purposes.
+
+# Motivation
+I was solving a bug one day at work and i needed a counter to keep a count for number of functions i have visited. So i thought of just creating one using tkinter. So here it is putting out here if anyone ever needs one.
 
 # Getting Started
 ## 1. How to run?
